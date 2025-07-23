@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinesh Thiyagarajan</h1>
-<h3 align="center">🚀 AWS DevOps Engineer 🚀😊👉🎖️... With 2+ years of hands-on experience in the DevOps field, I thrive on bridging the gap between development and operations, using cutting-edge tools to automate, scale, and optimize processes. My passion lies in streamlining workflows and creating seamless, high-performing environments that allow businesses to innovate faster and more efficiently. 🌐 I have a strong command of managing AWS infrastructure, utilizing Docker and Kubernetes to deploy and scale microservices, and crafting robust CI/CD pipelines with Jenkins to reduce deployment times and enhance overall productivity. 🌟</h3>
+<h3 align="center">🚀 AWS DevOps Engineer 🚀😊👉🎖️... With 2+ years of hands-on experience in the DevOps field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh-arivu&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh-arivu" /> </p>
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/dineshthiyagarajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dineshthiyagarajan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dineshthiyagarajan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dineshthiyagarajan/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
