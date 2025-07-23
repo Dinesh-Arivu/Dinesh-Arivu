@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinesh Thiyagarajan</h1>
-<h3 align="center">A passionate DevOps and Cloud Engineer from India</h3>
+<h3 align="center">🚀 AWS DevOps Engineer 🚀😊👉🎖️... With 2+ years of hands-on experience in the DevOps field, I thrive on bridging the gap between development and operations, using cutting-edge tools to automate, scale, and optimize processes. My passion lies in streamlining workflows and creating seamless, high-performing environments that allow businesses to innovate faster and more efficiently. 🌐 I have a strong command of managing AWS infrastructure, utilizing Docker and Kubernetes to deploy and scale microservices, and crafting robust CI/CD pipelines with Jenkins to reduce deployment times and enhance overall productivity. 🌟</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh-arivu&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh-arivu" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Google Cloud**
 
-- 👨‍💻 All of my projects are available at [dinesh-arivu](dinesh-arivu)
+- 👨‍💻 All of my projects are available at [https://github.com/Dinesh-Arivu](https://github.com/Dinesh-Arivu)
 
 - 📫 How to reach me **dineshthiyagu1097@gmail.com**
 
@@ -24,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinesh-arivu&show_icons=true&locale=en" alt="dinesh-arivu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinesh-arivu&" alt="dinesh-arivu" /></p>
-
