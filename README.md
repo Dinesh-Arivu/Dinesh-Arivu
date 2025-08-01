@@ -34,7 +34,7 @@ I have completed several certifications and courses to enhance my knowledge and 
    <img src="https://www.svgrepo.com/show/448226/gitlab.svg" alt="gitlab" title="gitlab" width="50" height="50"/>  
 
 I am always looking to expand my skill set and stay updated with the latest industry trends and technologies. Feel free to check out my certifications and learnings!
-   - 👨‍💻 All of my projects are available at [https://github.com/KundanKukadiya/](https://github.com/Dinesh-Arivu/)
+   - 👨‍💻 All of my projects are available at [https://github.com/Dinesh-Arivu/](https://github.com/Dinesh-Arivu/)
    - 📫 How to reach me **dineshthiyagu1097@gmail.com**
    - 🤝 Connect with me on **www.linkedin.com/in/dinesh-thiyagarajan/**   
 
