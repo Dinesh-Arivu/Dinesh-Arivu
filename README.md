@@ -36,7 +36,7 @@ I have completed several certifications and courses to enhance my knowledge and 
 I am always looking to expand my skill set and stay updated with the latest industry trends and technologies. Feel free to check out my certifications and learnings!
    - 👨‍💻 All of my projects are available at [https://github.com/Dinesh-Arivu/](https://github.com/Dinesh-Arivu/)
    - 📫 How to reach me **dineshthiyagu1097@gmail.com**
-   - 🤝 Connect with me on **www.linkedin.com/in/dinesh-thiyagarajan/**   
+   - 🤝 Connect with me on **www.linkedin.com/in/dineshthiyagarajan/**   
 
 
 
