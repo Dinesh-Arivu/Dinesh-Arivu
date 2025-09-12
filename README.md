@@ -38,5 +38,7 @@ I am always looking to expand my skill set and stay updated with the latest indu
    - 📫 How to reach me **dineshthiyagu1097@gmail.com**
    - 🤝 Connect with me on **www.linkedin.com/in/dineshthiyagarajan/**   
 
+![Linkedin Banner Image](https://github.com/user-attachments/assets/046a23c9-e9aa-4bb8-817a-a832cf51af40)
+
 
 
