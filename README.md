@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Dinesh Thiyagarajan 🏄‍♂️ </h1>
-<h3> 👋 Hello! I'm a passionate and experienced DevOps Engineer from India 🇮🇳 with over 3+ years of hands-on experience in Cloud and DevOps technologies. </h3>
+<h3> 👋 Hello! I'm a passionate and experienced DevOps Engineer from India 🇮🇳 with over 3.9+ years of hands-on experience in Cloud and DevOps technologies. </h3>
 
 I specialize in streamlining development workflows, automating infrastructure, and ensuring the scalability and reliability of systems. My goal is to drive efficient, cost-effective, and seamless software delivery by leveraging modern DevOps practices and cloud-native solutions. 
 
